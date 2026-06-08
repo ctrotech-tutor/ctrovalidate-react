@@ -29,7 +29,7 @@
   "devDependencies": {
     "ctrovalidate-core": "^1.0.0",
     "@types/react": "^18.2.0",
-    "react": "^18.2.0",
+    "react": "^19.2.7",
     "tsup": "^8.5.1",
     "vitest": "^4.0.18",
     "eslint": "^9.39.2",
